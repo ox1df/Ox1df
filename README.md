@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ox1df&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Learning Cybersecurity, Red Teaming, and Penetration Testing
 Welcome to my personal repository where I document my journey of learning cybersecurity, red teaming, and penetration testing! This repository serves as a knowledge base and a place to share resources, notes, tools, and projects related to these exciting fields.
 
@@ -42,5 +44,5 @@ Let's learn and grow together in the exciting world of cybersecurity!
 
 Happy hacking!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ox1df&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
