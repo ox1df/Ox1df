@@ -1,10 +1,10 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ox1df&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Oxffsec&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Learning Cybersecurity, Red Teaming, and Penetration Testing
 Welcome to my personal repository where I document my journey of learning cybersecurity, red teaming, and penetration testing! This repository serves as a knowledge base and a place to share resources, notes, tools, and projects related to these exciting fields.
 
 ## About Me
-I'm [ox1df], a passionate learner enthusiastic about diving deep into the world of cybersecurity. While I'm still relatively new to this field, I'm dedicated to expanding my knowledge and honing my skills through hands-on experience, online courses, and community engagement.
+I'm [OxGHOST], a passionate learner enthusiastic about diving deep into the world of cybersecurity. While I'm still relatively new to this field, I'm dedicated to expanding my knowledge and honing my skills through hands-on experience, online courses, and community engagement.
 
 Goals
 My primary goals with this repository are:
